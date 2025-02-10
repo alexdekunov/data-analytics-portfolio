@@ -16,4 +16,4 @@
 - `customer_clustering.ipynb` – кластеризация клиентов на основе данных о покупках.
 
 ## Автоматизация
-- ['Автопостинг в WordPress'](https://github.com/alexdekunov/data-analytics-portfolio/blob/main/google_wordpress_post.json)
+- [Автопостинг в WordPress](https://github.com/alexdekunov/data-analytics-portfolio/blob/main/google_wordpress_post.json)
