@@ -5,7 +5,7 @@
 ## SQL
 - `sales_analysis.sql` – анализ продаж по категориям, нахождение самых прибыльных товаров.
 - `customer_segmentation.sql` – сегментация клиентов по частоте покупок.
-- `churn_prediction.sql` – поиск факторов оттока клиентов.
+- [`churn_prediction.sql`](https://github.com/alexdekunov/data-analytics-portfolio/blob/main/churn_prediction.sql) – поиск факторов оттока клиентов.
 
 ## Дашборды
 - [Yandex DataLens: Анализ продаж](https://datalens.yandex.ru/)  
